@@ -1,0 +1,30 @@
+body {
+    background-image: url("BinarySystem.png");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Comic Sans MS';
+    color: peachpuff;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    color: snow;
+}
+
+h2 {
+    font-family: "Comic Sans MS";
+    color: peachpuff;
+}
+
+a:link, a:visited {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: lightblue;
+}
+
+a:hover, a:active {
+    color: aliceblue;
+}
