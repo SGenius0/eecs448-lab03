@@ -1,0 +1,33 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 30px;
+    color: lightskyblue;
+}
+
+h2 {
+    font-family: "Comic Sans MS";
+}
+
+h5 {
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    color: pink;
+    text-align: center;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 3px;
+    border-color: aquamarine;
+}
+
+p {
+    font-family: "Comic Sans MS";
+}
+
+button {
+    font-family: "Comic Sans MS";
+    font-size: 12px;
+}

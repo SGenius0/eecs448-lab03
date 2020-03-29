@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS Manipulation</title>
+        <script src="css_manipulation.js"></script>
+        <link href="css_manipulation.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <h1>CSS Manipulation</h1>
+        <h5 id="sentence">You can change the border and background of this text.</h5>
+
+        <h2>Border:</h2>
+        <p>Red value (00-FF): <input type="text" id="border_red"></p>
+        <p>Green value (00-FF): <input type="text" id="border_green"></p>
+        <p>Blue value (00-FF): <input type="text" id="border_blue"></p>
+        <p>Width: <input type="text" id="border_width"></p><br>
+
+        <h2>Background:</h2>
+        <p>Red value (00-FF): <input type="text" id="background_red"></p>
+        <p>Green value (00-FF): <input type="text" id="background_green"></p>
+        <p>Blue value (00-FF): <input type="text" id="background_blue"></p><br>
+
+        <button type="button" onclick="modify()">Change color and width</button>
+    </body>
+</html>
