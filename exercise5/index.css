@@ -1,0 +1,25 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 36px;
+    color: rgb(252, 236, 17);
+}
+
+p {
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: rgb(235, 93, 28);
+}
+
+a:link, a:visited {
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: rgb(142, 82, 238);
+}
+
+a:hover, a:active {
+    color: rgb(21, 111, 245);
+}
